@@ -1,0 +1,6 @@
+{
+    "name": "Phyrexian Rebirth",
+    "type_line": "Sorcery",
+    "oracle_text": "Destroy all creatures, then create an X/X colorless Phyrexian Horror artifact creature token, where X is the number of creatures destroyed this way.",
+    "mana_cost": "{4}{W}{W}"
+}
